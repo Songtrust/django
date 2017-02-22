@@ -2562,7 +2562,7 @@ Case-insensitive starts-with.
 
 Example::
 
-    Entry.objects.filter(headline__istartswith='will')
+    Entry.objects.filter(headline__istartswith='Will')
 
 SQL equivalent::
 
