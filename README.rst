@@ -1,3 +1,8 @@
+ARCHIVED 2/24/2025
+https://docs.google.com/spreadsheets/d/12NFxMXnScpzYHwGc3ZYxyQ9rr3PdDF23BAHU9YTgDUM/
+
+--
+
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
